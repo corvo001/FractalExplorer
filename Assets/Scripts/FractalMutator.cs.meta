@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1100f04b4c0bf1941874996c42c079dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fractalMaterial: {fileID: 2100000, guid: dacf4c292b0b8714f850a25f4d1929d9, type: 2}
+  - manager: {instanceID: 0}
+  - speedSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

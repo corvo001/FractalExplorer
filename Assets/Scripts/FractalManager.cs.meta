@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a70995681005c04289176d76b615403
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fractalMaterial: {fileID: 2100000, guid: dacf4c292b0b8714f850a25f4d1929d9, type: 2}
+  - mandelbrotShader: {fileID: 4800000, guid: ae17604d8a5fc92418c7f1ee43bfce92, type: 3}
+  - juliaShader: {fileID: 4800000, guid: c2ea9fc7a01312745bb6f396b825539a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
